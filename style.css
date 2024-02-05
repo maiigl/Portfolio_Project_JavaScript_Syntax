@@ -1,0 +1,30 @@
+
+body {
+    text-align: center;
+    background-color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#result {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+button {
+    font-size: 50px;
+    background-color: white;
+    border-radius: 10px;
+}
+button:hover {
+    cursor: pointer;
+    color: green;
+} 
